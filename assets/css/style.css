@@ -1,0 +1,19 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+  overflow-y: scroll;
+  background: url(../images/trainimg.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+footer {
+  padding: 15px;
+  clear: both;
+  color: black;
+  font-size: 14px;
+  font-weight: 600px;
+  text-align: center;
+  background: white;
+}
